@@ -22,3 +22,13 @@ leetcode
 * 70 爬楼梯       https://github.com/sailei1/algorithm/issues/17
 * 83 删除排序链表中的重复元素 https://github.com/sailei1/algorithm/issues/18
 * 237 删除链表中的节点 https://github.com/sailei1/algorithm/issues/19
+* 88  合并两个有序数组 https://github.com/sailei1/algorithm/issues/20
+* 100 相同的树 https://github.com/sailei1/algorithm/issues/21
+* 101 对称二叉树 https://github.com/sailei1/algorithm/issues/22
+* 104 二叉树的最大深度 https://github.com/sailei1/algorithm/issues/23
+* 107 二叉树的层次遍历 II https://github.com/sailei1/algorithm/issues/24
+* 108 将有序数组转换为二叉搜索树 https://github.com/sailei1/algorithm/issues/25
+* 110 判断是否是平衡二叉树 https://github.com/sailei1/algorithm/issues/26
+* 111 二叉树的最小深度 https://github.com/sailei1/algorithm/issues/27
+* 112 路径总和 https://github.com/sailei1/algorithm/issues/28
+* 118 杨辉三角 https://github.com/sailei1/algorithm/issues/29
