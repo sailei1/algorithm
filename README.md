@@ -32,3 +32,17 @@ leetcode
 * 111 二叉树的最小深度 https://github.com/sailei1/algorithm/issues/27
 * 112 路径总和 https://github.com/sailei1/algorithm/issues/28
 * 118 杨辉三角 https://github.com/sailei1/algorithm/issues/29
+* 119 杨辉三角II https://github.com/sailei1/algorithm/issues/30
+* 121 买卖股票的最佳时机 https://github.com/sailei1/algorithm/issues/31
+* 122 买卖股票的最佳时机 II https://github.com/sailei1/algorithm/issues/32
+* 125 验证回文串 https://github.com/sailei1/algorithm/issues/33
+* 136 只出现一次的数字 https://github.com/sailei1/algorithm/issues/34
+* 141 环形链表 https://github.com/sailei1/algorithm/issues/35
+* 160 相交链表 https://github.com/sailei1/algorithm/issues/36
+* 155 最小栈 https://github.com/sailei1/algorithm/issues/37
+* 167 两数之和II-输入有序数组 https://github.com/sailei1/algorithm/issues/38
+* 168 Excel表列名称 https://github.com/sailei1/algorithm/issues/39
+* 169 求众数 https://github.com/sailei1/algorithm/issues/40
+* 171 Excel表列序号 https://github.com/sailei1/algorithm/issues/41
+* 172 阶乘后的零 https://github.com/sailei1/algorithm/issues/42
+* 189 旋转数组 https://github.com/sailei1/algorithm/issues/43
