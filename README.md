@@ -46,3 +46,12 @@ leetcode
 * 171 Excel表列序号 https://github.com/sailei1/algorithm/issues/41
 * 172 阶乘后的零 https://github.com/sailei1/algorithm/issues/42
 * 189 旋转数组 https://github.com/sailei1/algorithm/issues/43
+* 190 颠倒二进制位 https://github.com/sailei1/algorithm/issues/44
+* 191 位1的个数 https://github.com/sailei1/algorithm/issues/45
+* 198 打家劫舍 https://github.com/sailei1/algorithm/issues/46
+* 203 移除链表元素 https://github.com/sailei1/algorithm/issues/47
+* 204 计数质数 https://github.com/sailei1/algorithm/issues/48
+* 205 同构字符串 https://github.com/sailei1/algorithm/issues/49
+* 206 反转链表 https://github.com/sailei1/algorithm/issues/50
+* 217 存在重复元素 https://github.com/sailei1/algorithm/issues/51
+* 219 存在重复元素 II https://github.com/sailei1/algorithm/issues/52
