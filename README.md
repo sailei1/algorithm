@@ -55,3 +55,14 @@ leetcode
 * 206 反转链表 https://github.com/sailei1/algorithm/issues/50
 * 217 存在重复元素 https://github.com/sailei1/algorithm/issues/51
 * 219 存在重复元素 II https://github.com/sailei1/algorithm/issues/52
+* 226 翻转二叉树 https://github.com/sailei1/algorithm/issues/53
+* 231 2的幂  https://github.com/sailei1/algorithm/issues/54
+* 234 回文链表  https://github.com/sailei1/algorithm/issues/55
+* 235 二叉搜索树的最近公共祖先 https://github.com/sailei1/algorithm/issues/56
+* 236 二叉树的最近公共祖先 https://github.com/sailei1/algorithm/issues/57
+* 242 有效的字母异位词 https://github.com/sailei1/algorithm/issues/58
+* 257 二叉树的所有路径 https://github.com/sailei1/algorithm/issues/59
+* 258 各位相加 https://github.com/sailei1/algorithm/issues/60
+* 263 丑数 https://github.com/sailei1/algorithm/issues/61
+* 268 缺失数字 https://github.com/sailei1/algorithm/issues/62
+
